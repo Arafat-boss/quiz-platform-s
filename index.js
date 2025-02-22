@@ -22,7 +22,7 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
-    await client.connect(); 
+    await client.connect(); // MongoDB কানেক্ট করো
     console.log('✅ Connected to MongoDB!');
 
     // Database & Collection
