@@ -31,7 +31,7 @@ This is a RESTful API built with Express.js and MongoDB, designed for managing q
 
 Setup Instructions
 1. Clone the Repository
-        git clone https://github.com/your-repo/quiz-platform-api.git
+        git clone https://github.com/Arafat-boss/quiz-platform-s
         cd quiz-platform-api
 
 2. Install Dependencies
